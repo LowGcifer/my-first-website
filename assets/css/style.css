@@ -3,5 +3,41 @@
 }
 
 header {
+  background-color: red;
+}
+
+ul {
+  text-align: right;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  width: 600px;
+  height: auto;
+  position: relative;
+  left: 650px;
+  margin: 50px;
+  border: 10px solid red;
+}
+
+#email {
+  background-color: yellow;
+}
+
+#github {
+  background-color: green;
+}
+
+#portfolio {
   background-color: cyan;
+}
+
+#contact {
+  background-color: orange;
 }
